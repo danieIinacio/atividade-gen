@@ -2,7 +2,7 @@ Frases:
 1:Essa autoavaliação me faz refletir sobre como tenho colaborado com outras pessoas e como posso melhorar minha empatia e escuta ativa no ambiente de grupo.
 2:Tem como objetivo identificar as melhorias que os participantes desenvolveram em suas habilidades socioemocionais desde o início até o meio do programa, por meio de atividades como autorreflexão intermediária, avaliação por pares e dramatizações realizadas ao longo do processo de aprendizagem.
 3:
-4: 
+4: Uma avaliação Tecnica formativa tem o objetivo de forncer feedback continuo tanto para o aluno como para o professor, identificando lacunas no conhecimento, competências ou habilidades técnicas, e permitir ajustes no ensino e aprendizegem.
 5: Essas avaliações permitem medir o nível de domínio técnico alcançado e identificar possíveis lacunas de aprendizagem.
 Servem também como base para orientar melhorias no processo de ensino e desenvolvimento profissional.
 6: A participação ativa tem como finalidade induzir o aluno a desvendar ainda mais o seu conhecimento nas aulas. Recebendo feedbacks de respostas que precisam a ser melhoradas. Questões de reflexões mais profundas sobre o conteúdo ajuda ainda mais a despertar um pensamento critico e analítico.
